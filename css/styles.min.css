@@ -511,7 +511,7 @@ header ul.primary-nav li a {
 }
 
 header ul.primary-nav li a:hover {
-    color: black;
+    color: white;
     font-weight: bold;
 }
 
