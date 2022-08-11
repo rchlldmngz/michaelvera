@@ -2,12 +2,11 @@
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,400italic,300italic,700,700italic);
 @import url(https://fonts.googleapis.com/css?family=Nunito:400,300,700);
 p {
-    font-size: 25px;
-    line-height: 29px;
+    font-size: 15px;
+    line-height: 25px;
     color: #7F7F7F;
     padding-bottom: 12px;
-    font-family: 'wedding script', sans-serif;
-    letter-spacing: 1px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h1 {
@@ -19,7 +18,7 @@ h2 {
     font-size: 20px;
     font-weight: 300;
     color: black;
-    font-family: Arial, Helvetica, sans-serif
+    font-family: 'Times New Roman', Times, serif
 }
 
 h3 {
@@ -47,7 +46,7 @@ h5 {
     text-transform: uppercase;
     font-weight: bold;
     line-height: 35px;
-    font-family: Arial, Helvetica, sans-serif
+    font-family: 'Times New Roman', Times, serif
 }
 
 h6 {
@@ -1153,8 +1152,8 @@ iframe {
 
 .form-check-label {
     font-weight: 100;
-    font-family: 'wedding script', sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     color: #7F7F7F;
-    font-size: 25px;
-    line-height: 29px;
+    font-size: 15px;
+    line-height: 15px;
 }
